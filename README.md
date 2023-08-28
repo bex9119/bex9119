@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+
+Hi, I'm Rebecca, I'm about to start the Northcoders bootcamp.
+
+I'm currently working on learning Javascript.
 
 <!--
 **bex9119/bex9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
