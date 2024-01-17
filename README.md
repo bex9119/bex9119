@@ -1,8 +1,8 @@
 ### About Me
 
-Hi, I'm Rebecca, I'm about to start the Northcoders bootcamp.
+Hi, I'm Rebecca, I've just completed an industry led programming bootcamp with Northcoders. I've learnt in Javascript how to build a back-end framework, and then link this to the front-end. I have experience creating API's with Express and building a programme using React. I can format a project using CSS, Bootstrap or Tailwind. I am also comfortable using Firebase, their Firestore, Storage & User Authentication, combined with using React Native and Expo to create a mobile app.
 
-I'm currently working on learning Javascript.
+I have loved developing my problem solving skills, Northcoders has equipped me with the confidence in my ability to learn new skills in a short period of time. I am looking forward to applying this in the workplace!
 
 <!--
 **bex9119/bex9119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
